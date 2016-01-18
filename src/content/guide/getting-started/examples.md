@@ -313,7 +313,7 @@ Set up your breadboard as shown in the image below:
 
 Make sure that the short leg of the LED is plugged into `GND`. The other orientations do not matter.
 
-Bend the LED and the PHotoresistor so that they are pointing at each other. (You want the LED, when turned on, to shine its beam of light directly at the photoresistor.)
+Bend the LED and the Photoresistor so that they are pointing at each other. (You want the LED, when turned on, to shine its beam of light directly at the photoresistor.)
 
 ### Code
 
